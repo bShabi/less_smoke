@@ -1,3 +1,8 @@
 {
-  "smokingHistory": []
+  "smokingHistory": [
+    {
+      "date": "12/2/2023, 5:55:44 PM",
+      "id": 1
+    }
+  ]
 }
