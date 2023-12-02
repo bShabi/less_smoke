@@ -1,0 +1,13 @@
+.timer-container {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Adjust styles for screens with a maximum width of 600px (typical mobile size) */
+    .timer-container {
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
+}
