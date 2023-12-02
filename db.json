@@ -1,12 +1,3 @@
 {
-  "smokingHistory": [
-    {
-      "date": "12/2/2023, 10:49:28 AM",
-      "id": 1
-    },
-    {
-      "date": "12/2/2023, 10:49:29 AM",
-      "id": 2
-    }
-  ]
+  "smokingHistory": []
 }
